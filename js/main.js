@@ -53,6 +53,9 @@ $(function() {
 			yaxis: {
 				type: 'log',
 				autorange: true
+			},
+			margin: {
+				b: 150
 			}
 		};
 
